@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: MY VIEW ON WORLD # add banner title
+banner-title: MY VIEW MY LIFE # add banner title
 banner-desc: The broader the view, the less the assertions. # add banner description
 
 # Author settings
