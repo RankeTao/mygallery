@@ -33,7 +33,7 @@ weixin_url: https://mp.weixin.qq.com/ # add url link
 discus_identifier: mygallery # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: live.us4.list-manage.com/subscribe/post?u=e9ef8d79d413aafd1f2930d49&amp;id=16781cf159 # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
 analytics:
